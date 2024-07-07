@@ -5,7 +5,7 @@ var box3 = document.getElementById("box3");
 var box4 = document.getElementById("box4");
 
 var new_time = new Date()
-var bakar_eid = new Date("7/20/2024")
+var bakar_eid = new Date("7/20/2025")
 var diff = bakar_eid.getTime() - new_time.getTime()
 
  var interval = setInterval(function () {
